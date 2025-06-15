@@ -1,7 +1,7 @@
 [
     {
-        "name": "proton-cachyos-10",
-        "title": "proton-cachyos-10",
+        "name": "proton-cachyos-10.0-20250605-slr-x86_64_v3",
+        "title": "proton 10 with v3 optimize by cachyos",
         "uri": "https://github.com/CachyOS/proton-cachyos/releases/download/cachyos-10.0-20250605-slr/proton-cachyos-10.0-20250605-slr-x86_64_v3.tar.xz",
         "files": {
             "wine": "files/bin/wine",
